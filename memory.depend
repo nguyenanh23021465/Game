@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1714492279 source:c:\btl\memory\game\game\testing.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+

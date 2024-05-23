@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1716347321 source:c:\btl\memory\game\game\main.cpp
+	"tile.h"
+
+1713691629 c:\btl\memory\game\game\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"defs.h"
+
+1713691629 c:\btl\memory\game\game\defs.h
+
+1713692443 source:c:\btl\memory\game\game\all,cpp.c
+
+1713693837 source:c:\btl\memory\game\game\all.cpp
+	"all.h"
+
+1713710604 c:\btl\memory\game\game\all.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1716445692 source:c:\btl\memory\game\game\tile.cpp
+	"tile.h"
+
+1716347321 c:\btl\memory\game\game\tile.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"all.h"
+
+1713692727 source:c:\btl\memory\game\game\uet.cpp
+	"tile.h"
+
